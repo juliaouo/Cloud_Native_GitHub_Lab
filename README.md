@@ -9,7 +9,7 @@ Cloud Native course homework 2
 |                  | 有準備 README.md                          | 5     | 要有修改過，不能用預設的                                               | ✅      |
 |                  | 從網頁上可以看到除了 Main 外有額外兩個 Branch | 10    | hw1-p<br>hw1-f                                                        | ✅      |
 | Issue (20)       | 創建任意 Issue                            | 5     | 創一個 issue，open 狀態                                               | ✅      |
-|                  | 有 Issue Template                         | 15    | 創 issue 時有 template 可供選，內容不夠                               | ✅      |
+|                  | 有 Issue Template                         | 15    | 創 issue 時有 template 可供選，內容不拘                               | ✅      |
 | Pull Request(20) | 以 hw-p 此 branch 對 main 創立 Pull Request | 5     | 需針對任何檔案修改                                                     | ✅      |
 |                  | 以 hw-f 此 branch 對 main 創建 Pull Request | 5     | 需針對任何檔案修改                                                     | ✅      |
 |                  | 上述任何一個 PR 內有留言互動，針對程式碼變動留言 | 10    | 針對修改必須留言                                                       | ✅      |
